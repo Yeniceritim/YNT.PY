@@ -1,4 +1,4 @@
-# Hibernet
+#YENİCERİTİM
 A powerful flooding tool.
 You can perform HTTP flood, TCP flood and UDP flood... and you can choose if use proxy/socks to anonymize attack.
 
@@ -32,13 +32,4 @@ Or double click on the program in winzoz.
 
 
 ![alt text](https://i.imgur.com/odr1rPd.png)
-![alt text](https://i.imgur.com/3YNngR0.png)
-![alt text](https://i.imgur.com/BcvW4C3.png)
-
-
 Attack from just 1 lousy vps can be dangerous for a target, so don't aim targets that are not your property.
-
-
-
-<h2>Demonstration video:</h2>
-https://www.youtube.com/watch?v=G84R0qKMpO8
